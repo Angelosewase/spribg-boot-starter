@@ -149,7 +149,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.sopromadze.blogapi.BlogApiApplication</mainClass>
+					<mainClass>com.springboot.starterapi.BlogApiApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>
